@@ -1,0 +1,9 @@
+{
+    "azureFunctions.deploySubpath": "01-functions/lab",
+    "azureFunctions.postDeployTask": "npm install (functions)",
+    "azureFunctions.projectLanguage": "JavaScript",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.projectSubpath": "01-functions/lab",
+    "azureFunctions.preDeployTask": "npm prune (functions)"
+}
